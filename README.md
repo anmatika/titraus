@@ -1,4 +1,4 @@
-# Calculates medicine in milliliters to be drank
+# Calculates medicine in milliliters to be drank after titration
 
 ## Install
 
